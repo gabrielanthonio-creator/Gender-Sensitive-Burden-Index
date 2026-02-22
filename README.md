@@ -13,9 +13,6 @@ This is an interactive, single-file HTML policy dashboard presenting findings fr
 | **Focus** | Women's nutritional health equity across Nigerian regions |
 | **Principal Investigator** | Oladimeji Anthonio Gabriel |
 | **Institution** | University of Ibadan, Ibadan, Nigeria |
-| **Funder** | Government of Japan via Global Development Network (GDN) |
-| **Grant Amount** | $20,000 |
-| **Collaborative Partners** | FERDI, CERDI, Tuvs |
 | **Data Sources** | NDHS 2018, MICS 2021 |
 
 ---
@@ -83,9 +80,6 @@ The dashboard includes a tabbed recommendations section covering three horizons:
 
 ## Suggested Citation
 
-> Gabriel, O.A. (2024). *GSBI Policy Dashboard: Nigeria Women's Nutritional Health Equity*. SRHIN/CEMPHER, Ibadan, Nigeria. Funded by the Government of Japan via GDN.
-
----
 
 ## Contact
 
